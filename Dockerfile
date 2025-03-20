@@ -1,7 +1,6 @@
-
-# لطفاً اعتبار @VJ_Botz را حذف نکنید
-# برای ربات‌های شگفت‌انگیز کانال یوتیوب @Tech_VJ را دنبال کنید
-# سوالات خود را در تلگرام از @KingVJ01 بپرسید
+# Don't Remove Credit @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Ask Doubt on telegram @KingVJ01
 
 FROM python:3.10.8-slim-buster
 
